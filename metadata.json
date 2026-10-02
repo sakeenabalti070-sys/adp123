@@ -1,0 +1,6 @@
+{
+  "name": "Comfort - Luxury Ladies Fashion & Garments",
+  "description": "Premium Pakistani ladies garments and women's fashion e-commerce platform offering unstitched, stitched, pret wear, and winter luxury collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
