@@ -309,6 +309,15 @@ export const AdminPage: React.FC<AdminPageProps> = ({ onNavigate }) => {
             <span>Live Customer Storefront</span>
             <ExternalLink className="w-3.5 h-3.5" />
           </button>
+          <a
+            href="/comfort-ecommerce.zip"
+            download="comfort-ecommerce.zip"
+            className="hidden sm:inline-flex items-center gap-1.5 px-3 py-1 bg-[#4A1D4B] hover:bg-[#5E2B5F] text-[#FFF6F1] hover:text-white rounded-lg text-xs transition-colors border border-[#5E2B5F]"
+            title="Download complete project ZIP archive"
+          >
+            <Download className="w-3.5 h-3.5 text-[#D681A7]" />
+            <span>Download Code (.zip)</span>
+          </a>
         </div>
 
         {/* Staff Role Switcher & Profile info */}
